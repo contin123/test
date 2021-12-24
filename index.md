@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/contin123/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/contin123/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="css/comprehensive.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<title>风裳旗舰店视频</title>
+	</head>
+	<body>
+		<div id="" class="index_big">
+			<a href="https://www.runoob.com/">
+			<div id="" class="index_big_box">
+				<img src="img/nuanchang.jpeg" >
+				<div id="" class="index_big_box_name">
+					电子相册暖场1
+				</div>
+			</div>
+			</a>
+		</div>
+		<div id="" class="index_big">
+			<a href="https://www.runoob.com/">
+			<div id="" class="index_big_box">
+				<img src="img/nuanchang.jpeg" >
+				<div id="" class="index_big_box_name">
+					电子相册暖场2
+				</div>
+			</div>
+			</a>
+		</div>
+		<div id="" class="index_big">
+			<a href="https://www.runoob.com/">
+			<div id="" class="index_big_box">
+				<img src="img/nuanchang.jpeg" >
+				<div id="" class="index_big_box_name">
+					电子相册暖场3
+				</div>
+			</div>
+			</a>
+		</div>
+		<div id="" class="index_big">
+			<a href="https://www.runoob.com/">
+			<div id="" class="index_big_box">
+				<img src="img/nuanchang.jpeg" >
+				<div id="" class="index_big_box_name">
+					电子相册暖场4
+				</div>
+			</div>
+			</a>
+		</div>
+	</body>
+</html>
