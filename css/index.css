@@ -1,0 +1,19 @@
+.index_big {
+	margin: auto;
+	height: 100%;
+	width: 700px;
+}
+.index_big_box {
+	width: 170px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.index_big_box img {
+	width:100%;
+}
+.index_big_box_name {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
